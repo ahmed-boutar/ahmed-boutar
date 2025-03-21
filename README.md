@@ -22,5 +22,5 @@ Current Research
 ### My Portfolio: [Portfolio] (Work in Progress...)
 ### My LinkedIn: [LinkedIn]
 
-[Portfolio]: https://www.ahmed.boutar.com/
+[Portfolio]: https://www.ahmedboutar.com/
 [LinkedIn]: https://www.linkedin.com/in/ahmed-boutar-6124ab175/
