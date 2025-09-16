@@ -11,15 +11,6 @@ Current Research
 - 🎓 Duke University | Master of Engineering in Artificial Intelligence
 - 💻 University of Rochester | Bachelor of Science in Computer Science
 
-## GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmed-boutar&show_icons=true&bg_color=252334&title_color=ff7372&text_color=dbdbdb&icon_color=6cffd0&rank_icon=percentile" alt="ahmed-boutar's GitHub stats">
-  </a>
-</div>
-
-
 
 ### My Portfolio: [Portfolio] (Work in Progress...)
 ### My LinkedIn: [LinkedIn]
