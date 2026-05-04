@@ -1,10 +1,12 @@
 ## Hi Explorer, I am Ahmed 🎧
 
-I am currently pursuing my master of engineering in artificial intelligence at Duke University and am passionate about AI research and Music Technology
+I am have a MEng in AI from Duke and am passionate about AI research and Music Technology
 
-Current Research
+Previous Research
 1. Developing imperceptible perturbations in music to protect artists and prevent AI mimicry
 2. Developing Classwise, a Duke platform used by Duke professors and students as a companion for learning and tracking progress through AI-generated quizzes, evaluation, and feedback. The user interactions are used for research to gather more insights on the use of AI in enhancing learning outcomes.
+
+Currently building @Stripe as a Software Engineer
 
 ## Education
 
